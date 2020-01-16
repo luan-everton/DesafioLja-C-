@@ -1,0 +1,11 @@
+C:\Users\LNOI\source\repos\Desafioloja04\Desafioloja04\obj\Debug\netcoreapp3.1\Desafioloja04.csprojAssemblyReference.cache
+C:\Users\LNOI\source\repos\Desafioloja04\Desafioloja04\obj\Debug\netcoreapp3.1\Desafioloja04.AssemblyInfoInputs.cache
+C:\Users\LNOI\source\repos\Desafioloja04\Desafioloja04\obj\Debug\netcoreapp3.1\Desafioloja04.AssemblyInfo.cs
+C:\Users\LNOI\source\repos\Desafioloja04\Desafioloja04\bin\Debug\netcoreapp3.1\Desafioloja04.exe
+C:\Users\LNOI\source\repos\Desafioloja04\Desafioloja04\bin\Debug\netcoreapp3.1\Desafioloja04.deps.json
+C:\Users\LNOI\source\repos\Desafioloja04\Desafioloja04\bin\Debug\netcoreapp3.1\Desafioloja04.runtimeconfig.json
+C:\Users\LNOI\source\repos\Desafioloja04\Desafioloja04\bin\Debug\netcoreapp3.1\Desafioloja04.runtimeconfig.dev.json
+C:\Users\LNOI\source\repos\Desafioloja04\Desafioloja04\bin\Debug\netcoreapp3.1\Desafioloja04.dll
+C:\Users\LNOI\source\repos\Desafioloja04\Desafioloja04\bin\Debug\netcoreapp3.1\Desafioloja04.pdb
+C:\Users\LNOI\source\repos\Desafioloja04\Desafioloja04\obj\Debug\netcoreapp3.1\Desafioloja04.dll
+C:\Users\LNOI\source\repos\Desafioloja04\Desafioloja04\obj\Debug\netcoreapp3.1\Desafioloja04.pdb
